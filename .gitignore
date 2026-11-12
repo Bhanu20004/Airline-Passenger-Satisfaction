@@ -1,0 +1,37 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary and log files
+*.tmp
+*.log
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Dataset files
+data/raw/*.csv
+data/processed/*.csv
